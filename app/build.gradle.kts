@@ -59,6 +59,8 @@ dependencies {
     implementation("androidx.compose.ui:ui-graphics")
     implementation("androidx.compose.ui:ui-tooling-preview")
     implementation("androidx.compose.material3:material3")
+    implementation("androidx.room:room-common:2.6.1")
+    implementation("androidx.room:room-common-jvm:2.7.0-alpha02")
     testImplementation("junit:junit:4.13.2")
     //Room
     implementation("androidx.room:room-runtime:${rootProject.extra["room_version"]}")
