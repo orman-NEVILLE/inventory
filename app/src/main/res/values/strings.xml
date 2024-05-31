@@ -3,4 +3,5 @@
     <string name="item_entry_title" />
     <string name="edit_item_title">\n</string>
     <string name="save_action">\n</string>
+    <string name="back_button">\n</string>
 </resources>
