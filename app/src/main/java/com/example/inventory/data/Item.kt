@@ -18,7 +18,6 @@ package com.example.inventory.data
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
-import androidx.room.vo.PrimaryKey
 
 
 /**
